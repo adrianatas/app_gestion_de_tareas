@@ -34,7 +34,7 @@ Todos los paquetes están listados en `requirements.txt`.
 
 1. Clonar el repositorio:
 
-git clone https://github.com/tu-usuario/app_gestion_tareas.git
+git clone https://github.com/adrianatas/app_gestion_de_tareas.git
 cd app_gestion_tareas
 
 # Crear un entorno virtual
