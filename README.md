@@ -5,7 +5,7 @@ La interfaz está construida con **HTML, CSS y JS de Bootstrap** y el backend es
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 M6_01
 ├─ main.py # archivo principal de Flask
@@ -20,7 +20,7 @@ M6_01
 
 ---
 
-## ⚡ Requisitos
+##  Requisitos
 
 - Python 3.12  
 - Flask 3.1.2  
@@ -30,7 +30,7 @@ Todos los paquetes están listados en `requirements.txt`.
 
 ---
 
-## 🚀 Instalación
+##  Instalación
 
 1. Clonar el repositorio:
 
