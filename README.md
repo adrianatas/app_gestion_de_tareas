@@ -37,17 +37,17 @@ Todos los paquetes están listados en `requirements.txt`.
 git clone https://github.com/adrianatas/app_gestion_de_tareas.git
 cd app_gestion_tareas
 
-# Crear un entorno virtual
+## Crear un entorno virtual
 python -m venv .venv
 
-# Activar el entorno virtual Windows PowerShell
+## Activar el entorno virtual Windows PowerShell
 .venv\Scripts\activate
 #Instalar dependencias
 pip install -r requirements.txt
 #Ejecutar la aplicación
 python main.py
 
-# Base de datos y notas 
+## Base de datos y notas 
 La app usa SQLite y crea automáticamente la base de datos local al iniciar.
 Cada usuario tendrá su propia base de datos, así los datos son locales y privados.
 
